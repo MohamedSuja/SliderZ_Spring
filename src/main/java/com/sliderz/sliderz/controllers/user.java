@@ -1,5 +1,5 @@
 package com.sliderz.sliderz.controllers;
 
-public class user.controller {
+public class user {
     
 }

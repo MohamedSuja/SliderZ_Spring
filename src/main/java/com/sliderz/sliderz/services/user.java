@@ -1,5 +1,5 @@
 package com.sliderz.sliderz.services;
 
-public class user.service {
+public class user {
     
 }
