@@ -1,5 +1,5 @@
 package com.sliderz.sliderz.pipes;
 
-public class user {
+public class UserPipes {
     
 }

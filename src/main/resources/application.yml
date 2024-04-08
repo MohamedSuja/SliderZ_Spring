@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: SliderZ
+
+  profiles:
+    active: "dynamic"
+
+server:
+  port: 7050
